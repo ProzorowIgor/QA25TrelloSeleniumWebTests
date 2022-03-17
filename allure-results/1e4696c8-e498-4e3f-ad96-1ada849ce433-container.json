@@ -1,0 +1,1 @@
+{"uuid":"1e4696c8-e498-4e3f-ad96-1ada849ce433","name":"RegressionTestsWithoutLogin","children":["c8bcbbc3-0a83-433b-a499-50f18f464ddd"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1644321438609,"stop":1644321456118}],"afters":[],"start":1644321438598,"stop":1644321456203}

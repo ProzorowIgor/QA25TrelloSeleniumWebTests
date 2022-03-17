@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a051703-3b39-43fa-820d-58d110f957fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/0157e62c-445c-4792-adb1-a981014b5b26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a8c2d4c-5ba7-44f8-98a9-0705eec105ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0eb4f4a7-2110-43f7-ac34-ba26cbb3f27c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fb26248-0d83-43c0-95a0-76b2858b8b14-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/173033c6-0abe-4637-873e-0055e5754b82-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/190cc95d-9ca1-4d6e-ba99-68a7bd864136-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ae8b62a-ef78-4da0-a874-0a174ff81fee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bd2826a-423c-4cdd-b714-0770312f9f5a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1fefe429-73f4-40d0-b446-efc93610956e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b9868f1-15ac-4e6f-88aa-85b4213c1d63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e5857aa-fd32-4185-bba6-a0243a3186cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32da616e-c408-4672-80e1-703c53eba4eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f62c950-1ba9-4492-a6bd-47d9d6731ff4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4d6ce11a-6a5a-4f76-a01a-c831b3a658ae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ddbb35d-ba91-48cc-a62b-70235f614c4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4e5a9684-cc80-4806-8b98-fd5ff6c5c4cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5433db82-f3f6-4729-a355-356ca4069471-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/550ad281-3666-4d95-96a4-1acdc3f027e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/55d08199-ba36-41cc-b8f3-e2a1cde7bfa1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/572d9e25-4c85-45b3-ba22-053787b54a29-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57cb21a7-31f2-4650-a11a-f6e911d8e15a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5840863d-4381-4a3e-ab91-031600469532-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58a298bb-9df8-41a5-9800-8a03c0f12df2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/598a4a8c-a053-42fd-9f75-f1800540ecb6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a0d02c1-de02-4d93-b762-1eeb1608d0d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ef8356a-9eb0-43de-a63a-249a7a248427-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/625f294d-294d-4d5f-8952-8285d64c538d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64907896-d34f-4390-bcc3-3e005601d05f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b0ce8ca-b6a9-4eca-8dd0-1f51d48d4c1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b4f2135-0783-4bc7-b6e6-fe43d55bde9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f76e348-b358-4761-ab56-4aa1bba7ab91-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/73e88145-8389-4972-903e-b7b876e4aee0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7447d8a4-700a-4f98-9632-0719a18c7e0e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76c174b1-8ab9-4e53-b19d-ff6982fbabfc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/795dcc5b-0305-4672-b8f6-532ead778cb9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79866f2f-ad62-4872-a610-019e068aa2de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/826c9d98-a4f5-42a2-bf55-66bb1fae21b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/82e2e398-4eee-4431-ab62-8d91f6d405f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83686156-9370-41d0-8e9c-b832e8a89cd4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83763747-78f6-46f9-9319-fe3892fd31cb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/844829f9-622b-4ec0-afb9-872d49f7e0a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86817325-e1b1-4869-85e8-9dae1365a423-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8d44f507-270a-4094-8e24-74115af22dce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ef438a0-986a-411c-9f34-8a24eead2c2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/958b7581-7eca-46fc-9ad8-cabe095157a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c9d63dd-2d00-4957-8b59-244c39b91d7c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d5101a9-f41b-413e-95d7-4202ab186873-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a273f162-0980-4c08-8f5b-ea7f3fe68727-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4007678-57b8-482b-a699-f8c47c85133a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8de5fc2-502d-451a-b1a1-390fed449187-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a9deb58a-6ac5-48cc-81b0-a01dbfab7ff6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac4154a1-e2d5-488f-a9a2-165879f466cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ae42f18e-6bed-4315-a007-e3e688702585-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b22e7336-cfe1-4076-9b0b-39ae035b6e2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b49fb86b-5aa1-4c31-9210-95942b028b62-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b641f154-86fd-44fb-815e-0d48c8bf5b7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b6b9acd6-bfb1-4647-8b91-b4ee0acbd6ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd434cba-f961-4ab9-a8cb-8f6dc5b041b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf8d97a1-46bf-4857-9041-65d7974e644f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c32123e6-5d84-4be3-bf0b-ca9ec6d0ebc0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cddc8a2c-61e0-4c30-80c0-204a60bdffbb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce7f4117-9aac-425c-9e63-7235e31f686f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cef8d277-0e9b-47e1-bec4-6ce746991b74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6f59bf2-be32-47f7-9079-cb48e0e6a8a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d792bac3-8fea-47be-8b6f-44df6f83ff4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8650c2b-4467-4150-8614-5a502857ecb7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d88d8636-151a-46de-aad3-45a9ba5ba130-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d92da87a-62b3-4e32-9990-035a7b18756b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db3483b5-8e53-4567-972a-42e68d2f27a3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df366883-4c8b-482b-aa84-b8bb38244539-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e66f698b-2303-4856-b6a5-c91288ee74bd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e781c108-9508-40f0-b8ab-79d05c4ddb8b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9b34ba6-f56d-41cf-8005-f5cdd363b13d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb78d2b0-0b81-4e36-aa5d-8415e24a8c72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f85985af-cb18-4bdb-a8bb-4acc08bfa35a-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/ApplicationManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/BoardHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/BoardHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/HeaderHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/HeaderHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/HelperBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/LeftNavigationMenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/LeftNavigationMenuPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/ProfileHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/ProfileHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/SessionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/SessionHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/TeamHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/fw/TeamHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/model/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/model/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardCreationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardDeletionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardDeletionTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardModificationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/BoardModificationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/DataProvisers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/DataProvisers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/DataProvisers.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/DataProvisers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/LoginTrelloTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/LoginTrelloTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/TeamCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/TeamCreationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/UsersProfileModificationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/telRan/tests/tests/UsersProfileModificationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/classes/com.telRan.tests.tests.BoardCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/classes/com.telRan.tests.tests.BoardCreationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/classes/com.telRan.tests.tests.BoardModificationTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testBoards/packages/com.telRan.tests.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testBoards/packages/com.telRan.tests.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.BoardCreationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.BoardCreationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.BoardModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.BoardModificationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.TeamCreationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/classes/com.telRan.tests.tests.TeamCreationTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/testRegression/packages/com.telRan.tests.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/testRegression/packages/com.telRan.tests.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/testng-boards.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/testng-boards.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testBoards/TEST-com.telRan.tests.tests.BoardCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testBoards/TEST-com.telRan.tests.tests.BoardCreationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testBoards/TEST-com.telRan.tests.tests.BoardModificationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testBoards/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testBoards/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testBoards/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testBoards/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testBoards/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testBoards/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.BoardCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.BoardCreationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.BoardModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.BoardModificationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.TeamCreationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/TEST-com.telRan.tests.tests.TeamCreationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/testRegression/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/testRegression/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telRan/tests/tests/LoginTrelloTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telRan/tests/tests/LoginTrelloTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-boards.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng-boards.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24pAVqITcU0VKIbcOlH2vLC7c8U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Gradle.BoardCreationTests">
+    <configuration name="BoardCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":testBoards" />
+            <option value="--tests" />
+            <option value="&quot;com.telRan.tests.tests.BoardCreationTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BoardDeletionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":testBoards" />
+            <option value="--tests" />
+            <option value="&quot;com.telRan.tests.tests.BoardDeletionTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTrelloTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.telRan.tests.tests.LoginTrelloTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTrelloTests.negativeLoginAtlassianAccPositiveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.telRan.tests.tests.LoginTrelloTests.negativeLoginAtlassianAccPositiveTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BoardCreationTests" />
+        <item itemvalue="Gradle.LoginTrelloTests.negativeLoginAtlassianAccPositiveTest" />
+        <item itemvalue="Gradle.LoginTrelloTests" />
+        <item itemvalue="Gradle.BoardDeletionTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a051703-3b39-43fa-820d-58d110f957fa" name="Changes" comment="" />
+      <created>1644317182479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644317182479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QA25TrelloSeleniumWebTests$BoardCreationTests.ic" NAME="BoardCreationTests Coverage Results" MODIFIED="1644318676744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
